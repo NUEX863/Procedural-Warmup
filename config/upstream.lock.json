@@ -1,0 +1,15 @@
+{
+  "code": {
+    "url": "https://github.com/zlshinnick/procedural-warmup-vit.git",
+    "commit": "7d0bdc208c3e52ae1e977d22da44d64bf3783fef",
+    "directory": "vendor/procedural-warmup-vit"
+  },
+  "checkpoint": {
+    "repo_id": "zlshinnick/procedural-warmup-vit",
+    "revision": "2dec9cf7b24a3d33030794a7924ff9ffe0016de6",
+    "filename": "pw-vit-t/model.pth",
+    "path": "checkpoints/pw-vit-t/model.pth",
+    "size_bytes": 21652523,
+    "sha256": "1c52a454ed04d3ee2f9cf7f1246a18a061fac8e0afc03d2fc999b1fc4c2ea235"
+  }
+}
