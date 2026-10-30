@@ -1,0 +1,13 @@
+# Direct dependencies validated on Windows x64 / Python 3.10.21 / RTX 3060.
+# Rebuild with scripts/setup_environment.ps1 (installs CUDA wheels first).
+# requirements.lock.txt also pins transitive dependencies and packaging tools.
+torch==2.10.0+cu126
+torchvision==0.25.0+cu126
+timm==0.6.13
+numpy==2.2.6
+scipy==1.15.3
+Pillow==12.3.0
+PyYAML==6.0.3
+matplotlib==3.10.9
+pandas==2.3.3
+huggingface-hub==2.3.0
